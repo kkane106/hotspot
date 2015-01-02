@@ -1,7 +1,9 @@
 == Hotspot
 
+Production: http://hotspotapp.herokuapp.com/
+
 We aim to foster a one-stop shop for code reviewers to go to while looking over others' code.  We plan to create a page that displays the file path, the number of commits, and the users that have committed to that certain file.
 
-We are using Ruby on Rails, Javascript, JQuery, AJAX, the Github API, and Omniauth.
+Our goal is not to replace Github's functionality, but enhance it for code reviewers. By evaluating where the bulk of recent activity has been on a project, reviewers will be able to focus their attention where it will be the most helpful without having to search through every file in a project to find what is the most important.
 
-Link to our Trello: (https://trello.com/b/i85oXNEV/hotspot)
+
